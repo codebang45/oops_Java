@@ -6,10 +6,10 @@ public class StudentClient {
         Student s = new Student(); //  new Student is called Object and s is refernce variable 
                                      //  ek baat aur string ka default value null hota hai and integet ka 0
 
-        System.out.println(s.name);
-        System.out.println(s.age);
+        // System.out.println(s.name);
+        // System.out.println(s.age);
 
-        s.name = "Palak";
+        s.name = "kartik";
         s.age = 20;
 
         s.Intro_yourSelf();
